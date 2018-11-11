@@ -1,5 +1,7 @@
-import {isMobile} from "./validate.js"
-console.log(isMobile)
+import { isMobile }from "./validate.js"
+
+
+
 export {
     isMobile
 }
